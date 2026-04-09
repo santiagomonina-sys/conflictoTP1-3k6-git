@@ -1,12 +1,3 @@
 function saludar() {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    alert("Hola ");
-=======
-    alert("Hola bienvenido");
->>>>>>> rama1
+    alert("Hola buenas tardes ");
 }
-=======
-    alert("Hola, bienvenido");
-}
->>>>>>> rama2
